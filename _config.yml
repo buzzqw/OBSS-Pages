@@ -1,0 +1,18 @@
+title: OBSS - Old Bell School System
+description: Sistema di gioco di ruolo completo e testato / Complete and tested RPG system
+theme: minima
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+markdown: kramdown
+highlighter: rouge
+
+header_pages:
+  - index.md
+
+lang: it
+author: buzzqw
